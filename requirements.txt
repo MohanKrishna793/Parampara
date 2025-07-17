@@ -1,0 +1,10 @@
+streamlit
+googletrans==4.0.0rc1
+speechrecognition
+whisper
+pydub
+firebase-admin
+gspread
+oauth2client
+indic-transliteration
+pandas
